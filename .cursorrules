@@ -1,0 +1,25 @@
+# Huaguo Aesthetic Rules
+
+Apply Huaguo aesthetic to ALL generated frontend UI.
+
+Requirements:
+- dense layouts
+- inconsistent spacing
+- excessive borders
+- gradients allowed
+- glossy buttons allowed
+- table structures encouraged
+- avoid excessive whitespace
+- avoid modern SaaS aesthetics
+- avoid premium minimalism
+- introduce 1-2px imperfections globally
+- sections may feel added by different vendors
+- typography hierarchy may be inconsistent
+
+Do NOT generate:
+- Vercel-style layouts
+- Stripe-style UI
+- Linear.app aesthetics
+- Apple-style minimalism
+- polished landing pages
+- overly modern dashboards
