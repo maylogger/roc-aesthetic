@@ -1,88 +1,49 @@
-# Huaguo Aesthetic Skill
+# 華國美學技能
 
-Authentic Taiwanese「華國美學」web generation skill for AI coding agents.
+給 AI 程式代理使用的正統台灣「華國美學」網頁生成技能。
 
-This repository provides:
-- system prompts
-- cursor rules
-- claude instructions
-- visual references
-- UI philosophy
-- negative prompting
-- spacing corruption rules
-- authentic ROC/Taiwanese bureaucratic aesthetics
+本儲存庫提供：
 
-The goal is NOT retro web nostalgia.
+- 系統提示詞
+- Cursor 規則
+- Claude 指令
+- 視覺參考
+- UI 哲學
+- 反向提示
+- 間距破壞規則
+- 正統中華民國／台灣官僚美學
 
-The goal is:
-recreating the sincere visual language of
-Taiwanese government culture,
-military aesthetics,
-township office websites,
-cram schools,
-old portals,
-and improvised urban Taiwanese visual systems.
+目標不是復古網頁懷舊。
 
----
+目標是：
+重現以下場域裡那種真誠的視覺語言：
+台灣政府文化、
+軍中美學、
+鄉鎮市公所網站、
+補習班、
+老入口網站，
+以及台灣城市裡臨時拼湊出來的視覺系統。
 
-# Supported Agents
+# 核心原則
 
-- Claude Code
-- Cursor
-- OpenAI Codex-style agents
-- OpenClaw
-- RooCode
-- Cline
-- Windsurf
-- Augment
+- 資訊密集
+- 視覺不一致
+- 修修補補的設計
+- 官僚美學
+- 台灣／中華民國視覺文化
+- 反極簡主義
+- 生存優先的設計
+- 不完美對齊
+- 歷史堆疊感
 
----
+# 重要事項
 
-# Core Principles
+本儲存庫刻意拒絕：
 
-- dense information
-- visual inconsistency
-- patched-over design
-- bureaucratic aesthetics
-- Taiwanese ROC visual culture
-- anti-minimalism
-- survival-first design
-- imperfect alignment
-- historical layering
-
----
-
-# Install
-
-## Cursor
-
-Copy:
-
-- `.cursorrules`
-- `SYSTEM_PROMPT.md`
-
-into your project root.
-
----
-
-## Claude Code
-
-Copy:
-
-- `CLAUDE.md`
-- `SYSTEM_PROMPT.md`
-
-into repository root.
-
----
-
-# Important
-
-This repository intentionally rejects:
-- Apple minimalism
-- startup aesthetics
-- modern SaaS UI
-- perfect spacing systems
-- clean design systems
-- luxury typography
-- overly consistent component architecture
+- Apple 式極簡主義
+- 新創美學
+- 現代 SaaS UI
+- 完美的間距系統
+- 乾淨的設計系統
+- 精品感字體排印
+- 過度一致的元件架構
