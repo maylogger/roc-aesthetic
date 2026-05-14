@@ -31,8 +31,8 @@ When in doubt: **choose the uglier-but-sincere bureaucracy over the prettier-but
 Before building a page:
 
 1. Skim `rules/*.md` for the dimension you need (spacing, typography, banners, tables, imagery).
-2. Use `prompts/*.txt` scenario files as stubs; extend them with locale-specific content (traditional Chinese labels, ROC-style naming).
-3. For「站牌／候車告示」transit signage UI, read `rules/bus-stop-mode.md` and use `prompts/bus-stop-mode.txt` as the task stub.
+2. Use `prompts/*.md` scenario files as stubs; extend them with locale-specific content (traditional Chinese labels, ROC-style naming).
+3. For「站牌／候車告示」transit signage UI, read `rules/bus-stop-mode.md` and use `prompts/bus-stop-mode.md` as the task stub.
 4. Treat `references/` as **conceptual anchors** once you populate screenshots—match mood, clutter, palette, not pixel-perfect clones.
 
 ## Output quality bar
