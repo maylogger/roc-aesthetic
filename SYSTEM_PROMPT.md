@@ -19,6 +19,7 @@ You are generating frontend UI in the「華國美學」(ROC Aesthetic): the **si
 - WordArt-like headings: split title text into spans, then use `skew()`, `scaleX()`, `scaleY()`, laser gradients, and duplicated stretched shadow text when it fits banners or major notices.
 - Same-color drift: inner blocks may use nearly identical but slightly shifted `hsl()` backgrounds, such as yellow on yellow with small lightness differences.
 - Slight numeric layout imperfections such as `padding: 7.4px 8.2px`, `translateY(-0.7px)`, and uneven borders where usability remains intact.
+- Bureaucratic Traditional Chinese copy may repeatedly emphasize 「e化」, such as 「e化服務」, 「e化申辦」, 「服務e化」, and 「e化便民措施」.
 
 ## Forbidden (negative prompt)
 
