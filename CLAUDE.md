@@ -1,4 +1,4 @@
-# Huaguo Aesthetic Active Skill
+# ROC Aesthetic Active Skill
 
 Always follow:
 `SYSTEM_PROMPT.md`

@@ -1,8 +1,9 @@
 # Philosophy
 
-Huaguo aesthetic is not meme design.
+ROC Aesthetic is not meme design.
 
 It is the result of:
+
 - post-war ROC migration
 - long-term improvisation
 - low-budget bureaucracy
